@@ -1,0 +1,1 @@
+```Kiro Bot```<br>This was originally a project for a friend I made about a year ago.<br>So much of this is skidded I dont even know where I skidded it from lol<br> <br> <b>Installation:</b><br>Open the config file and set your discord bot token and prefered prefix<br>Run<br> ```npm install```<br>Then,<br>```node index.js```
